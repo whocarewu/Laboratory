@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ExcelImportTest/pom.xml" />
+        <option value="$PROJECT_DIR$/ExcelExportTest/pom.xml" />
+        <option value="$PROJECT_DIR$/RedisTest/pom.xml" />
       </list>
     </option>
   </component>
