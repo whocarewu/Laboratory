@@ -6,8 +6,8 @@ spring:
     time-zone: GMT+8
   datasource:
     url: jdbc:mysql://139.224.133.80:3306/petSystem?characterEncoding=utf-8&serverTimezone=Asia/Shanghai
-    username: root
-    password: WJSqwbytla5555.
+    username: ******
+    password: ******
     driver-class-name: com.mysql.cj.jdbc.Driver
     hikari:
       minimum-idle: 3
